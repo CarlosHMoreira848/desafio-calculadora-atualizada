@@ -4,7 +4,7 @@
 - Contexto: Formação CÓDIGO DE BASE da Educ360° em parceria com a Foursys! | Curso CDB - Java Back-End
 - Saga: Atualização do projeto https://github.com/CarlosHMoreira848/desafio-calculadora-como-classe-java
 ## Escopo
-- O que é: Ue Desafio de baixa/media complexidade da criação de um sistema de uma calculadora utilizando uma classe principal para comunicação e outra para realizar as operações; de modo que implemente novas funcionalidades ao projeto "calculadora-como-classe".
+- O que é: Um Desafio de baixa/media complexidade da criação de um sistema de uma calculadora utilizando uma classe principal para comunicação e outra para realizar as operações; de modo que implemente novas funcionalidades ao projeto "calculadora-como-classe".
 - Descrição do desafio: Com o mesmo projeto da Calculadora como classe, implemente novas funcionalidades, novas operações, o que for de sua criatividade, para poder praticar tudo que foi aprendido até aqui. 
 ## Temas envolvidos na resolução
 - Variáveis;
